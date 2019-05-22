@@ -1,0 +1,16 @@
+[
+  {
+    "repository":  "kernel_motorola_msm8937",
+    "target_path": "kernel/motorola/msm8937",
+    "branch": "dot-p"
+  },
+  {
+    "repository": "android_packages_resources_MotoActions",
+    "target_path": "packages/resources/MotoActions",
+   },
+   {
+    "repository": "proprietary_vendor_motorola_cedric",
+    "target_path: "vendor/motorola/cedric",
+    "branch": "dot-p"
+  }
+]
